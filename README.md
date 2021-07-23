@@ -1,1 +1,1 @@
-# SDV602-Bloga
+# SDV602-Blogs
