@@ -20,7 +20,7 @@ A programming paradigm is a programming approach to solving a problem. Each prog
 
 There paradigms are important to learn about as they divide programming languages based on their purpose and functionality. This makes it easy to decide what programming language would suit a project best.
 
-
+While discussing programming paradigms we also discussed about the programming languages we will use in this class. The main language we will be using is Python. This language for me will be easy to use and learn about as I have had lots of experience with it in the past and are quite familiar with it. The benefit about using python for this class as a main programming language is that its a common programming language used in work environments. Python is a good way to create basic programs to help achieve simple tasks, such as graphing. Python is mainly text based, working in the console.   
 
 <h3>Portfolio Project Brief</h3>
 
