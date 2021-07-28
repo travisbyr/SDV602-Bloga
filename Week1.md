@@ -26,29 +26,45 @@ While discussing programming paradigms we also discussed about the programming l
 
 <p>We also had to create a brief for our project. Here is what I created.</p>
 
-<h4>Overview</h4>
+<h3>Overview</h3>
 
-I am going to create an application that enables users to create graphical display based on data sourced by the user. When a user adds a data source to the application, the user will be given a variety of options on how they would like to utilise the data.  This application will be a useful tool for data analysts, allowing them to manipulate the data into many forms. The user will be given the following features.
+I am going to create an application that enables users to view graphs based on a data source. When a user adds a data source to the application, the user will be given a variety of options on how they would like to view the graph. This application will be a useful tool for data analysts, allowing them to have a better understanding of the data. The data source that this application will be using is sourced from Geonet about earthquakes.
 
-**Data source** – Users are given the ability to add their own data source. A data source will contain a data set in a table format that the application will use.
+<p></p>
 
-**Graphing** – Users can create graphs from the data source that they provide. Users will have the ability to choose the type of graph that they want to create
+Geonet: [www.geonet.org.nz](www.geonet.org.nz) 
 
-**Graph settings** – Users can change the settings of the graph. Such as title, graph appearance etc. Users will also be given the option to change the graph type in this menu. 
+The user will be given the following features:
 
-**Pan/zoom functionality** – Users are given the ability to zoom in and out of the graph as well as to pan. This will allow users better visibility of the graph. 
+**Data source** – Users are given the ability to view a data source. A data source will contain a data set that the application will use.
+
+**Graphing** – Users can create graphs from the data source that they provide. Users will have the ability to choose the type of graph that they want to create.
+
+**Graph settings** – Users can change the settings of the graph. Such as title, graph appearance etc. Users will also be given the option to change the graph type in this menu.
+
+**Pan/zoom functionality** – Users are given the ability to zoom in and out of the graph as well as to pan. This will allow users better visibility of the graph.
 
 **Data summary** – This will show information about the graph, such as the graphs key.
 
 **Chat** – This gives the user the ability to talk amongst over users that are using the application. 
 
-<h4>Purpose</h4>
 
-The purpose of this application is to provide users with an efficient way of viewing data. Instead of manually creating graphs in excel, users can quickly and effectively create a graph using this application. Users will also have a better experience using this application than an application such as excel due to its zoom and panning functionality.
+
+<h3>Purpose</h3>
+
+The purpose of this application is to provide users with an efficient way of viewing and analysing data by showing graphs. Instead of manually creating graphs in excel, users can quickly and effectively create a graph using this application.
+
+ 
+
+Users will also have a better experience using this application than an application such as excel due to its zoom and panning functionality. 
+
+ 
 
 Users will also be given the ability to quickly change datasets. The application with have buttons that allows users to view the different datasets. Users can also create new graphs without having to remove old ones. 
 
 Multiple users will have the ability to view the same dataset. A chat is also available for users that want to communicate with other users on the application. 
+
+ 
 
 <h4>References</h4>
 
