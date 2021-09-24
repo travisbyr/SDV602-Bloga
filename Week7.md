@@ -10,7 +10,7 @@ File I/O allows me to using .csv files with my project by producing string objec
 
 Below is an example of filtering words from a document.
 
-
+<img height="500" src="https://raw.githubusercontent.com/travisbyr/SDV602-Blogs/main/Documentation%20Images/filter.png">
 
 In my project I may use this only get certain fields of information. Filter will be very useful for my outcome.
 
