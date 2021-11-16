@@ -12,8 +12,8 @@ This week I implemented a chat system.
 
 When the chat system retrieves the chat messages, the chat is updated for the user. 
 
-<img src="https://raw.githubusercontent.com/travisbyr/SDV602-Blogs/main/Documentation%20Images/thread.PNG">
+<img src="https://raw.githubusercontent.com/travisbyr/SDV602-Blogs/main/Documentation%20Images/thread.png">
 
 The chat system runs on a separate thread which allows me to continuously update the chat output for the user. When a user submits a chat text, the input as saved to the remote database. 
 
-<img src="https://raw.githubusercontent.com/travisbyr/SDV602-Blogs/main/Documentation%20Images/load_chat.PNG">
+<img src="https://raw.githubusercontent.com/travisbyr/SDV602-Blogs/main/Documentation%20Images/load_chat.png">
