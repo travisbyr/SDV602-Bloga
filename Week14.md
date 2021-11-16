@@ -2,7 +2,7 @@
 
 This week was self guided learning, so I used this week to further improve my project. Here is what I did.
 
-### Chat System
+### Login System
 
 This week I introduced my login and registration system.
 
